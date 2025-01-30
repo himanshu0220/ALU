@@ -17,6 +17,7 @@ MENTOR NAME : NEELA SANTOSH
 An Arithmetic Logic Unit (ALU) is a fundamental component of a CPU that performs arithmetic and logical operations. This 4-bit ALU is implemented in Verilog and supports five basic operations:  
 
 Addition (ADD) 
+
 Subtraction (SUB)  
 Bitwise AND  
 Bitwise OR  
