@@ -29,6 +29,7 @@ Conclusion :
 The 4-bit ALU efficiently performs basic arithmetic and logical operations using a combinational circuit. It correctly executes addition, subtraction, AND, OR, and NOT operations based on the control signal. The testbench verifies its functionality, ensuring accurate results for different inputs. This ALU serves as a fundamental building block for more complex processors, demonstrating essential computational capabilities in digital circuits. 
 
 Testbench & Simulation
+
 A testbench is provided to verify the ALU’s functionality by applying different test cases and observing the results. The simulation output confirms the correct execution of arithmetic and logical operations.  
 
 
