@@ -18,10 +18,15 @@ An Arithmetic Logic Unit (ALU) is a fundamental component of a CPU that performs
 
 
 Addition (ADD) 
+
 Subtraction (SUB)  
+
 Bitwise AND  
+
 Bitwise OR  
+
 Bitwise NOT  
+
 
 The 4-bit ALU (Arithmetic Logic Unit) is a combinational circuit that performs arithmetic and logical operations based on a control signal (ALU_Sel). It takes two 4-bit inputs (A and B) and a 3-bit control signal, which determines the operation to be executed. The output (ALU_Out) is a 4-bit result corresponding to the selected operation. The ALU supports five fundamental operations: addition, subtraction, bitwise AND, bitwise OR, and bitwise NOT. 
 
